@@ -6,6 +6,6 @@ In this tutorial, you’ll create a React application using a token-based authen
 
 By the end of this tutorial, you’ll be able to add authentication to a React application and integrate the login and token storage strategies into a complete user workflow.
 
-Step 1 — Building a Login Page
-Step 2 — Creating a Token API
-Step 3 — Storing a User Token with sessionStorage and localStorage
+### Step 1 — Building a Login Page
+### Step 2 — Creating a Token API
+### Step 3 — Storing a User Token with sessionStorage and localStorage
